@@ -1,0 +1,19 @@
+{
+  "name": "mahan-hazrati-website",
+  "version": "0.0.1",
+  "description": "My Personal Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahanhaz/website.git"
+  },
+  "author": "Mahan hazrati <eng.mahan.hazrati@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahanhaz/website/issues"
+  },
+  "homepage": "https://github.com/mahanhaz/website#readme"
+}
